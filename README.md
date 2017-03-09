@@ -4,13 +4,17 @@ scch is simple console chat. For start chatting you need two computers with inst
 
 ## Installation
 
-```npm i scch -g```
+```shell
+npm i scch -g
+```
 
 ## How to start chatting?
 
 Just enter in console this:
 
-```scch```
+```shell
+scch
+```
 
 Then, enter your nickname and IP's of another computer. Do it with another computer.
 You can start chat.
