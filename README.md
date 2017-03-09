@@ -17,6 +17,8 @@ You can start chat.
 
 ### Sorry for my English :D
 
+### GitHub repository: git://github.com/malyutinegor/scch.git
+
 ### npm page: https://www.npmjs.com/package/scch
 
 ### Creator's site: http://egocod.tk
