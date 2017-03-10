@@ -4,7 +4,7 @@
 
 ## Update list:
 
-In 1.1.0 I created simple encrypt system.
+In 1.1.0 I created simple encrypt system and all of scripts minified.
 
 Thanks for lots of downloads! I'm very happy :D
 
