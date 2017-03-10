@@ -1,6 +1,6 @@
 # scch
 
-## ------------------------------------------------
+--------------------------------------------------------
 
 ## Update list:
 
@@ -8,7 +8,7 @@ In 1.1.0 I created simple encrypt system.
 
 Thanks for lots of downloads! I'm very happy :D
 
-## ------------------------------------------------ 
+--------------------------------------------------------
 
 scch is simple console chat. For start chatting you need two computers with installed scch.
 
