@@ -25,4 +25,4 @@ You can start chat.
 
 ### npm page: https://www.npmjs.com/package/scch
 
-### Creator's site: http://egocod.tk
+### Creator's site: http://malyutinegor.github.io
