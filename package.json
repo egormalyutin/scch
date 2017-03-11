@@ -1,6 +1,6 @@
 {
   "name": "scch",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Simple console chat",
   "main": "lib/open-chat.js",
   "bin": {
@@ -23,7 +23,8 @@
     "my-ip": "^1.1.1",
     "colors": "^1.1.2",
     "request": "^2.80.0",
-    "cpass": "^1.0.2"
+    "cpass": "^1.0.2",
+    "randomstring": "^1.1.5"
   },
   "keywords": [
     "chat",
