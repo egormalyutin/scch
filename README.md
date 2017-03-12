@@ -15,7 +15,7 @@ scch is simple console chat. For start chatting you need two computers with inst
 ## Installation
 
 ```shell
-npm i scch -g
+sudo npm i scch -g
 ```
 
 ## How to start chatting?
